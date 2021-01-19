@@ -1,6 +1,6 @@
-
+<p align="center">
 ![Start](https://raw.githubusercontent.com/AndrewTheo/plaid/main/media/showcase.gif?token=ADJSS55HHOTCZHMLE2GKGHLAB7NTM)
-
+</p>
 <br />
 
 ## How to use it
