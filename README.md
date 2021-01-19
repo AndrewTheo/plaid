@@ -1,4 +1,4 @@
-#Money Management App, using the Plaid Api 
+<h1> Money Management App, using the Plaid Api </h1>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/AndrewTheo/plaid/main/media/showcase.gif?token=ADJSS55HHOTCZHMLE2GKGHLAB7NTM" />
