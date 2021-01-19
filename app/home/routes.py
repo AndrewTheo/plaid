@@ -15,7 +15,7 @@ def index():
 
 @blueprint.route('/home')
 def home():
-    client = Client(client_id='5ff00c62ca7ffe0012a4fe5b', secret='f03597fd2a64a6e7396db5852846c5', environment='sandbox')
+    client = Client(client_id='CLIENT_ID', secret='SECRET', environment='sandbox')
     res = client.Sandbox.public_token.create(
             'ins_3',
             ['transactions']
