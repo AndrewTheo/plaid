@@ -5,6 +5,8 @@
 </p>
 <br />
 
+### Using the plaid api to get a users bank account balances as well as transaction information. The data is then displayed on a dashboard. 
+
 ## How it works (Plaid Api)
 
 ### Getting a sandbox public token 
@@ -33,3 +35,7 @@ res = client.Accounts.balance.get(accessToken)
 res = client.Transactions.get(accessToken, start_date='2019-09-23', end_date='2021-02-02')
 transactions = res['transactions']
 ```
+
+<br />
+
+
