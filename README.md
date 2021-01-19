@@ -1,3 +1,5 @@
+#Money Management App, using the Plaid Api 
+
 <p align="center">
    <img src="https://raw.githubusercontent.com/AndrewTheo/plaid/main/media/showcase.gif?token=ADJSS55HHOTCZHMLE2GKGHLAB7NTM" />
 </p>
