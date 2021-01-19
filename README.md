@@ -1,5 +1,5 @@
 
-![Start](https://raw.githubusercontent.com/AndrewTheo/plaid/main/media/showcase.gif?raw=true)
+![Start](https://raw.githubusercontent.com/AndrewTheo/plaid/main/media/showcase.gif?token=ADJSS55HHOTCZHMLE2GKGHLAB7NTM)
 
 <br />
 
