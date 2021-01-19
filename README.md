@@ -1,5 +1,5 @@
 
-![Flask Dashboard Atlantis - Template project provided by AppSeed.](https://raw.githubusercontent.com/AndrewTheo/plaid/master/media/showcase.gif)
+![Start](https://raw.githubusercontent.com/AndrewTheo/plaid/main/media/showcase.gif?raw=true)
 
 <br />
 
